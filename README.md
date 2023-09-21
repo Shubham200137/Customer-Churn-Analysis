@@ -38,7 +38,7 @@ In this case study, we are tasked with analyzing customer churn for a telecom co
 
 - Tableau: For data exploration, visualization, and storytelling.
 
-## Data Source
+## Data Source:
 
 The data used for the analysis can be accessed from Below links: 
 - [Intro to the Case Study](https://cdn.upgrad.com/uploads/production/a1cfb9b7-8f9c-4578-aff1-d80d2363d375/Session+1+Files.zip)
