@@ -41,8 +41,8 @@ In this case study, we are tasked with analyzing customer churn for a telecom co
 ## Data Source
 
 The data used for the analysis can be accessed from Below links: 
-[1. Intro to the Case Study](https://cdn.upgrad.com/uploads/production/a1cfb9b7-8f9c-4578-aff1-d80d2363d375/Session+1+Files.zip)
-[2. Analyzing Churn and LTV Using SQL and Python](https://cdn.upgrad.com/uploads/production/99be7345-0b61-46d7-867c-b83e18905ad8/Session+2+files.zip)
-[3. Creating a Tableau Story](https://cdn.upgrad.com/uploads/production/03361e80-2f6d-4400-a2d6-e9f0ff16d327/Session+4+Files.zip)
+- [1. Intro to the Case Study](https://cdn.upgrad.com/uploads/production/a1cfb9b7-8f9c-4578-aff1-d80d2363d375/Session+1+Files.zip)
+- [2. Analyzing Churn and LTV Using SQL and Python](https://cdn.upgrad.com/uploads/production/99be7345-0b61-46d7-867c-b83e18905ad8/Session+2+files.zip)
+- [3. Creating a Tableau Story](https://cdn.upgrad.com/uploads/production/03361e80-2f6d-4400-a2d6-e9f0ff16d327/Session+4+Files.zip)
 
 
